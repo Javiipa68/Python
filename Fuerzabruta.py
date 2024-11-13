@@ -6,4 +6,4 @@ import argparse
 
 arg parser = argparse.ArgumentParser(description='Herramienta para hacer ataques de fuerza bruta')
 arg.add_argument("-u", dest="usuario", help="Pasar un Usuario", required=True)
-arg.add_argument(name or flags...[, action][, nargs][, const][, default][, type][, choices][, required][, help][, metavar][, dest])
+arg.add_argument, dest])
