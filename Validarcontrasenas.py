@@ -12,4 +12,5 @@ es_segura = longitud and caracter and numero and espacios
 
 # Resultados
 print(f"Contraseña: {password}")
-print(f"¿La contraseña cumple con los criterios establecidos? {es_segura}")
+print(f"¿La contraseña cumple con los criterios establecidos? {es_segura}t
+      "
